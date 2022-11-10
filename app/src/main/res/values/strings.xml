@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoCollection</string>
+    <string-array name="langages">
+        <item>C++</item>
+        <item>C</item>
+        <item>JAVA</item>
+        <item>KOTLIN</item>
+        <item>PYTHON++</item>
+        <item>VB.NET</item>
+    </string-array>
+</resources>
